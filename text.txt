@@ -1,0 +1,3 @@
+I like devops
+It is the best field in IT
+CICD is is cool
